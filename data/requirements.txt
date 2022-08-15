@@ -8,7 +8,7 @@ matplotlib
 pystyle
 colorama
 pytweening
-redisc
+redis
 keyboard
 websocket
 discord
